@@ -1,0 +1,5 @@
+console.log(typeof 'string')
+console.log(typeof 19)
+console.log(typeof true)
+console.log(typeof Undefined)
+console.log(typeof null)
