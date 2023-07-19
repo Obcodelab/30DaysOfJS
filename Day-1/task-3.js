@@ -1,0 +1,5 @@
+/*
+    Comments can make code readable
+    Easy to reuse
+    Informative
+*/
