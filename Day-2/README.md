@@ -56,11 +56,16 @@
 
 1. Using console.log() print out the following statement:
 
-1. The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another.
+    ``` js
+    The quote 'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help one another.
+
+    ```
 
 1. Using console.log() print out the following quote by Mother Teresa:
 
-1. "Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."
+    ``` js
+    "Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead."
+    ```
 
 1. Check if typeof '10' is exactly equal to 10. If not make it exactly equal.
 
